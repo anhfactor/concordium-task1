@@ -19,14 +19,14 @@
 - I install wallet using brave browser
 - Go to testnet by menu > Wallet setting > Network setting > Concordium testnet
 - Create an identity
-- Create an account
+- Create an account (3QRuK39LMaw91KqXcmLEG1ee6mStAo2M1yn2zu41bwdfm7qhWG)
 - Request 2000CCD tokens faucet
 
 ![Concordium-wallet](./img/concordium-wallet.png)
 
 - Go to settings export private key
 
-### Export accoutn from web wallet and import to concordium-client
+### Export account from web wallet and import to concordium-client
 - Run command
 ```
 concordium-client config account import <YOUR PUBLIC ADDRESS.export> --name <Your-Wallet-Name>
